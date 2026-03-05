@@ -1,4 +1,6 @@
 /* ============================================================
+DDL Script: Create Silver Tables
+/* ============================================================
    Purpose       :
        Create the Silver layer tables inside the Data_Warehouse
        database. The Silver layer stores cleaned/standardized
