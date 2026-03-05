@@ -1,4 +1,9 @@
-/* ============================================================
+
+/* 
+==============================================================
+Stored Procedure: Load Silver Layer (Bronze -> Silver)
+==============================================================
+
    Purpose       :
        Load and transform data from the Bronze layer into the
        Silver layer. This procedure standardizes values, trims
