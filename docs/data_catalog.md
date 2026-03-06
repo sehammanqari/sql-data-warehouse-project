@@ -112,6 +112,8 @@ dim_products ---- fact_sales
 | `fact_sales` | `dim_customers` | `customer_key` |
 | `fact_sales` | `dim_products`  | `product_key`  |
 
+In a star schema, the relationship between fact and dimensions is 1-to-many (1:N).
+
 ---
 
 # Analytical Use Cases
