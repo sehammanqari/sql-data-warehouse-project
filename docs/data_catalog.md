@@ -7,8 +7,8 @@ It is designed to support **analytics, dashboards, and reporting use cases**.
 
 The Gold layer transforms the cleaned data from the **Silver layer** into a **star schema structure**, consisting of:
 
-* **Dimension tables** — descriptive attributes for business entities.
-* **Fact tables** — measurable business events.
+* **Dimension tables**: descriptive attributes for business entities.
+* **Fact tables**: measurable business events.
 
 This structure improves performance and simplifies analytical queries.
 
